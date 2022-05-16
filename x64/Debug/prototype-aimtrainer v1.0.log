@@ -1,0 +1,10 @@
+﻿  Engine.cpp
+  The contents of <filesystem> are available only with C++17 or later.
+C:\Users\ryan\OneDrive\Desktop\repositories\prototype-aimtrainer v1.0\Engine.cpp(25,11): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+C:\Users\ryan\OneDrive\Desktop\repositories\prototype-aimtrainer v1.0\Engine.cpp(26,9): warning C4244: 'return': conversion from 'int' to 'float', possible loss of data
+C:\Users\ryan\OneDrive\Desktop\repositories\prototype-aimtrainer v1.0\Engine.cpp(152,17): warning C4244: 'argument': conversion from 'float' to 'sf::Uint8', possible loss of data
+C:\Users\ryan\OneDrive\Desktop\repositories\prototype-aimtrainer v1.0\Engine.cpp(151,17): warning C4244: 'argument': conversion from 'float' to 'sf::Uint8', possible loss of data
+C:\Users\ryan\OneDrive\Desktop\repositories\prototype-aimtrainer v1.0\Engine.cpp(150,60): warning C4244: 'argument': conversion from 'float' to 'sf::Uint8', possible loss of data
+C:\Users\ryan\OneDrive\Desktop\repositories\prototype-aimtrainer v1.0\Engine.cpp(184,49): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\ryan\OneDrive\Desktop\repositories\prototype-aimtrainer v1.0\Engine.cpp(196,50): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+  prototype-aimtrainer v1.0.vcxproj -> C:\Users\ryan\OneDrive\Desktop\repositories\prototype-aimtrainer v1.0\x64\Debug\prototype-aimtrainer v1.0.exe
